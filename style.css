@@ -1,0 +1,53 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aliceblue;
+    color: #ffffff;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+form{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 30px;
+    color: black;
+    border-radius: 40px;
+}
+
+input{
+    width: 95%;
+    padding: 2px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+label{
+    padding: 10px;
+    margin: 10px;
+}
+
+::placeholder{
+    padding: 10px;
+}
+
+button{
+    width: 97%;
+    padding: 2px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 20px;
+    background: #0e3493;
+    color: #ffffff;
+    border: solid;
+}
